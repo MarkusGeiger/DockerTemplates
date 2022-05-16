@@ -350,3 +350,5 @@ MigrationBackup/
 .ionide/
 
 Influx18/Data
+
+.DS_Store
